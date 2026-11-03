@@ -1,9 +1,5 @@
 <!-- ═══════════════════════════  HEADER  ═══════════════════════════ -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a1f44,50:1f4fd1,100:4ea8ff&height=200&section=header&text=Daniar%20Aitanov&fontSize=52&fontColor=ffffff&fontAlignY=36&desc=Backend%20Developer%20%E2%80%A2%20Student%20%E2%80%A2%20Almaty&descAlignY=58&descSize=18&animation=fadeIn" width="100%" alt="header"/>
-</p>
-
-<p align="center">
   <a href="https://github.com/deyrann00">
     <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=800&color=4EA8FF&center=true&vCenter=true&width=560&lines=Hi%2C+I'm+Daniar+%F0%9F%91%8B;Java+%2B+Spring+Boot+backend+dev;Python+%2F+FastAPI+%2B+AI+tooling;Building+scrapers%2C+APIs+%26+automations" alt="typing"/>
   </a>
